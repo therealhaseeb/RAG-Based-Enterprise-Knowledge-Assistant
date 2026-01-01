@@ -1,0 +1,9 @@
+fastapi 
+langchain-google-genai 
+langchain-community 
+langchain-pinecone 
+langchain-huggingface 
+sentence-transformers 
+pypdf 
+streamlit 
+uvicorn
